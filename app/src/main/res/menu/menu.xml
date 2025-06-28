@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/find"
+        android:title="Search"
+        app:showAsAction="always|collapseActionView"
+        android:iconTint="@null"
+        android:icon="@drawable/search_svgrepo_com__1_"
+        app:actionViewClass="androidx.appcompat.widget.SearchView"/>
+    <item
+        android:id="@+id/bell"
+        android:title="Notification"
+        app:showAsAction="always|collapseActionView"
+        android:icon="@drawable/bell_alt_1_svgrepo_com__1_"/>
+</menu>
