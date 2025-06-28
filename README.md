@@ -13,3 +13,6 @@ An Android application built in Java using RecyclerView, Firebase Auth, and mode
 - Firebase Authentication
 - Material Components
 - XML layouts with ConstraintLayout & CardView
+
+## Download APK
+[Click here to download](https://github.com/veyccanjo/E-commerce-App/releases/tag/v1.0.0)
